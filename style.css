@@ -1,0 +1,65 @@
+body {
+  background-image: url(images/purple_sky.jpg);
+  background-size: cover;
+  font-family: Roboto, arial;
+}
+
+.transparent-background {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  background-color: rgba(186, 132, 245, 0.5);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: -1;
+}
+
+.weather-card {
+  width: 400px;
+  height: 400px;
+  background-color: rgb(144, 89, 199);
+}
+
+.search-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.search-bar {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 20px;
+  border: none;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(223, 186, 255);
+  margin-right: 12px;
+  background-color: rgb(223, 186, 255);
+  font-size: 14px;
+}
+
+.search-icon {
+  height: 20px;
+  object-fit: cover;
+}
+
+.search-button {
+  background-color: rgb(223, 186, 255);
+  padding-top: 7px;
+  padding-bottom: 7px;
+  padding-left: 6px;
+  padding-right: 6px;
+  width: 40px;
+  border: none;
+  border-radius: 20px;
+  border-width: 1px;
+  border-style: solid;
+  border-color: rgb(223, 186, 255);
+}
