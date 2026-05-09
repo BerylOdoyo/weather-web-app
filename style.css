@@ -66,7 +66,7 @@ body {
   border-color: rgb(223, 186, 255);
 }
 
-.weather-information{
+.weather-information-container{
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -75,6 +75,7 @@ body {
 
 .weather-icon{
   height: 150px;
+  
 }
 
 .temperature{
