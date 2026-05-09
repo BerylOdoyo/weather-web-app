@@ -31,6 +31,7 @@ body {
 }
 
 .search-bar {
+  width: 230px;
   padding-top: 12px;
   padding-bottom: 12px;
   padding-left: 10px;
@@ -48,6 +49,7 @@ body {
 .search-icon {
   height: 20px;
   object-fit: cover;
+  object-position: center;
 }
 
 .search-button {
