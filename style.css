@@ -76,3 +76,13 @@ body {
 .weather-icon{
   height: 150px;
 }
+
+.temperature{
+  font-size: 30px;
+  color: rgb(223, 186, 255);
+}
+
+.city-name{
+  font-size: 20px;
+  color: rgb(223, 186, 255);
+}
