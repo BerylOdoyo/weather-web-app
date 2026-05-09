@@ -65,3 +65,14 @@ body {
   border-style: solid;
   border-color: rgb(223, 186, 255);
 }
+
+.weather-information{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.weather-icon{
+  height: 150px;
+}
