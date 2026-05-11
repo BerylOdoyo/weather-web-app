@@ -32,7 +32,7 @@ body {
 }
 
 .search-bar {
-  width: 230px;
+  width: 220px;
   padding-top: 12px;
   padding-bottom: 12px;
   padding-left: 10px;
@@ -111,3 +111,8 @@ body {
   font-size: 16px;
   color: rgb(223, 186, 255);
 }
+
+.weather-percentage-container{
+  margin-bottom: -18px;
+}
+
