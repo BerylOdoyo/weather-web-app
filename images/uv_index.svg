@@ -1,23 +1,35 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
-<svg width="800px" height="800px" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg">
-  <title>sun-solid</title>
-  <g id="Layer_2" data-name="Layer 2">
-    <g id="invisible_box" data-name="invisible box">
-      <rect width="48" height="48" fill="none"/>
-    </g>
-    <g id="Q3_icons" data-name="Q3 icons">
-      <g>
-        <path d="M24,10a2,2,0,0,0,2-2V4a2,2,0,0,0-4,0V8A2,2,0,0,0,24,10Z"/>
-        <path d="M24,38a2,2,0,0,0-2,2v4a2,2,0,0,0,4,0V40A2,2,0,0,0,24,38Z"/>
-        <path d="M36.7,14.1l2.9-2.8a2.3,2.3,0,0,0,0-2.9,2.3,2.3,0,0,0-2.9,0l-2.8,2.9a2,2,0,1,0,2.8,2.8Z"/>
-        <path d="M11.3,33.9,8.4,36.7a2.3,2.3,0,0,0,0,2.9,2.3,2.3,0,0,0,2.9,0l2.8-2.9a2,2,0,1,0-2.8-2.8Z"/>
-        <path d="M44,22H40a2,2,0,0,0,0,4h4a2,2,0,0,0,0-4Z"/>
-        <path d="M10,24a2,2,0,0,0-2-2H4a2,2,0,0,0,0,4H8A2,2,0,0,0,10,24Z"/>
-        <path d="M36.7,33.9a2,2,0,1,0-2.8,2.8l2.8,2.9a2.1,2.1,0,1,0,2.9-2.9Z"/>
-        <path d="M11.3,14.1a2,2,0,0,0,2.8-2.8L11.3,8.4a2.3,2.3,0,0,0-2.9,0,2.3,2.3,0,0,0,0,2.9Z"/>
-        <path d="M24,14A10,10,0,1,0,34,24,10,10,0,0,0,24,14Z"/>
-      </g>
-    </g>
-  </g>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
+<svg width="800px" height="800px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<g id="icomoon-ignore">
+</g>
+<path d="M16 8.010c-4.417 0-7.997 3.581-7.997 7.998 0 4.415 3.58 7.996 7.997 7.996s7.997-3.58 7.997-7.996c0-4.416-3.58-7.998-7.997-7.998zM16 22.938c-3.821 0-6.931-3.109-6.931-6.93 0-3.822 3.109-6.932 6.931-6.932s6.931 3.11 6.931 6.932c0 3.821-3.109 6.93-6.931 6.93z" fill="#000000">
+
+</path>
+<path d="M15.471 0.006h1.066v6.405h-1.066v-6.405z" fill="#000000">
+
+</path>
+<path d="M15.471 25.604h1.066v6.39h-1.066v-6.39z" fill="#000000">
+
+</path>
+<path d="M0.006 15.467h6.397v1.066h-6.397v-1.066z" fill="#000000">
+
+</path>
+<path d="M25.596 15.467h6.398v1.066h-6.398v-1.066z" fill="#000000">
+
+</path>
+<path d="M26.936 4.28l0.754 0.754-4.458 4.458-0.754-0.754 4.458-4.458z" fill="#000000">
+
+</path>
+<path d="M5.072 27.653l-0.754-0.754 4.458-4.458 0.754 0.754-4.458 4.458z" fill="#000000">
+
+</path>
+<path d="M5.073 4.281l4.458 4.458-0.754 0.754-4.458-4.458 0.754-0.754z" fill="#000000">
+
+</path>
+<path d="M26.937 27.654l-4.458-4.458 0.754-0.754 4.458 4.458-0.754 0.754z" fill="#000000">
+
+</path>
 </svg>
