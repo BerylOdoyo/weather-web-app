@@ -92,14 +92,23 @@ body {
   margin-top: -15px;
 }
 
-.humidity-information {
+
+.humidity-uv-container{
+  margin-left: 23px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.humidity-information, .uv-index-information {
   display: flex;
   flex-direction: row;
   align-items: center;
 }
 
-.humidity-icon {
+.humidity-icon, .sun-icon{
   height: 60px;
+
 }
 
 .weather-percentage{
@@ -116,3 +125,6 @@ body {
   margin-bottom: -18px;
 }
 
+.uv-index-information{
+  margin-right: 23px;
+}
